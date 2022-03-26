@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution Link](https://github.com/Yash-devasp/frontendmentor-interactive-rating-component)
-- Live Site URL: [Site Link](https://your-live-site-url.com)
+- Live Site URL: [Site Link](https://yash-devasp.github.io/frontendmentor-interactive-rating-component/)
 
 ## My process
 
